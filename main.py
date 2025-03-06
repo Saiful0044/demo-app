@@ -82,3 +82,7 @@ This is a demo app built with **Streamlit** to showcase its capabilities:
 - File upload and data processing
 - Markdown support for rich text
 """)
+st.header('Course')
+st.subheader('DDC')
+st.subheader("EEE")
+st.subheader("FFFF")
