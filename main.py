@@ -89,3 +89,9 @@ st.subheader("FFFF")
 st.subheader("python")
 st.subheader("SQl")
 st.subheader("EEE")
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
