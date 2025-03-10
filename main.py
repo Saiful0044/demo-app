@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set the title of the app
-st.title("Streamlit Demo App 🚀")
+st.title("Analytical App 🚀")
 
 # Add a sidebar for additional options
 st.sidebar.header("Settings")
