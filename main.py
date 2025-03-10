@@ -97,3 +97,5 @@ st.sidebar.markdown("""
 - Signin
 - Login
 """)
+st.sidebar.selectbox("Select one",['A','B'])
+st.sidebar.button("submit")
