@@ -94,4 +94,6 @@ st.sidebar.markdown("""
 - Home
 - About
 - Contact
+- Signin
+- Login
 """)
